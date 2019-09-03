@@ -1,0 +1,53 @@
+.wm-form {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    color: #333;
+}
+.wm-form .wm-form-search{
+    width: 100%;
+    flex: 0 0 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.wm-form .wm-form-search input{
+    width: 70%;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: 1px solid #b1b1b1;
+}
+.wm-form .wm-form-search input:focus,
+.wm-form .wm-form-search input:active,
+.wm-form .wm-form-search input:hover{
+    outline: none;
+}
+.wm-form .wm-form-list{
+    flex: 1 1 100%;
+    width: 100%;
+    height: 100%;
+}
+.wm-form .wm-form-list.loading{
+    filter:blur(1px);
+}
+.wm-list-item {
+    cursor: pointer;
+    white-space: nowrap;
+    padding: 5px 15px;
+    line-height: 20px;
+    box-sizing: border-box;
+    border-bottom: 1px solid #d3d3d3;
+    transition: background-color 0.3s linear;
+}
+.wm-list-item:focus,
+.wm-list-item:hover,
+.wm-list-item:active{
+    background-color: #d3d3d3;
+}
+.wm-form .wm-form-list .ReactVirtualized__Grid.ReactVirtualized__List{
+    outline:none;
+}

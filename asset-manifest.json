@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/weather-monitor/static/css/main.bc1e057e.chunk.css",
-    "main.js": "/weather-monitor/static/js/main.d726d7c2.chunk.js",
-    "main.js.map": "/weather-monitor/static/js/main.d726d7c2.chunk.js.map",
+    "main.js": "/weather-monitor/static/js/main.7bd7be50.chunk.js",
+    "main.js.map": "/weather-monitor/static/js/main.7bd7be50.chunk.js.map",
     "runtime~main.js": "/weather-monitor/static/js/runtime~main.c88d0ae9.js",
     "runtime~main.js.map": "/weather-monitor/static/js/runtime~main.c88d0ae9.js.map",
     "xlsx.js": "/weather-monitor/static/js/xlsx.e57c062e.chunk.js",
@@ -17,7 +17,7 @@
     "static/js/6.a533d942.chunk.js": "/weather-monitor/static/js/6.a533d942.chunk.js",
     "static/js/6.a533d942.chunk.js.map": "/weather-monitor/static/js/6.a533d942.chunk.js.map",
     "index.html": "/weather-monitor/index.html",
-    "precache-manifest.be674281c491a2b2e52238cdd28f1a62.js": "/weather-monitor/precache-manifest.be674281c491a2b2e52238cdd28f1a62.js",
+    "precache-manifest.6098cbb72bf4bed51d47ebd858e801f9.js": "/weather-monitor/precache-manifest.6098cbb72bf4bed51d47ebd858e801f9.js",
     "service-worker.js": "/weather-monitor/service-worker.js",
     "static/css/3.d54b0fa4.chunk.css.map": "/weather-monitor/static/css/3.d54b0fa4.chunk.css.map",
     "static/css/main.bc1e057e.chunk.css.map": "/weather-monitor/static/css/main.bc1e057e.chunk.css.map"
